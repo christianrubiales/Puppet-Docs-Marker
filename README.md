@@ -1,6 +1,8 @@
 # Puppet Docs Marker
 Mark what sections you have read from the Puppet Docs
 
+Clone this one: [https://github.com/christianrubiales/Puppet-Docs-Marker-Template](https://github.com/christianrubiales/Puppet-Docs-Marker-Template)
+
 # [Puppet (PE and open source)](https://puppet.com/docs/puppet/latest/puppet_index.html)
 
 ## [Welcome to Puppet 6 documentation](https://puppet.com/docs/puppet/latest/puppet_index.html)
