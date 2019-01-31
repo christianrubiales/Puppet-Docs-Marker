@@ -20,11 +20,11 @@ Clone this one: [https://github.com/christianrubiales/Puppet-Docs-Marker-Templat
 - [ ] [Manage firewall rules](https://puppet.com/docs/puppet/latest/quick_start_firewall.html)
 
 ## [Installing and upgrading](https://puppet.com/docs/puppet/latest/installing_and_upgrading.html)
-- [ ] [System requirements](https://puppet.com/docs/puppet/latest/system_requirements.html)
-- [ ] [Using the Puppet platform](https://puppet.com/docs/puppet/latest/puppet_platform.html)
-- [ ] [Installing Puppet](https://puppet.com/docs/puppet/latest/install_puppet.html)
-- [ ] [Installing agents](https://puppet.com/docs/puppet/latest/install_agents.html)
-- [ ] [Upgrading](https://puppet.com/docs/puppet/latest/upgrade_minor.html)
+- [X] [System requirements](https://puppet.com/docs/puppet/latest/system_requirements.html)
+- [X] [Using the Puppet platform](https://puppet.com/docs/puppet/latest/puppet_platform.html)
+- [X] [Installing Puppet](https://puppet.com/docs/puppet/latest/install_puppet.html)
+- [X] [Installing agents](https://puppet.com/docs/puppet/latest/install_agents.html)
+- [X] [Upgrading](https://puppet.com/docs/puppet/latest/upgrade_minor.html)
 
 ## [Configuring Puppet](https://puppet.com/docs/puppet/latest/config_puppet_configuration.html)
 - [ ] [Puppet settings](https://puppet.com/docs/puppet/latest/config_about_settings.html)
